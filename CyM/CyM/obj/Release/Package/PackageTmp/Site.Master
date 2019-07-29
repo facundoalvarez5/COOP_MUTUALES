@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="CyM.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+    <meta charset="utf-8">
+    <title>Cooperativas y Mutuales</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+    
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css"/>
+    <link href="metronic/assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="metronic/assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css"/>
+    <link href="metronic/assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="metronic/assets/global/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css"/>
+    <link href="metronic/assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css"/>
+    
+      
+    <!-- Favicons -->
+    <link href="Reveal/img/favicon.png" rel="icon">
+    <link href="Reveal/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800|Montserrat:300,400,700" rel="stylesheet">
+
+    <!-- Bootstrap CSS File -->
+    <link href="Reveal/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Libraries CSS Files -->
+    <link href="Reveal/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="Reveal/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="Reveal/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <link href="Reveal/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="Reveal/lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+    <link href="Reveal/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    
+    
+    
+    <link href="metronic/assets/global/css/components.css" rel="stylesheet" type="text/css"/>
+    <link href="metronic/assets/global/css/plugins.css" rel="stylesheet" type="text/css"/>
+    <link href="metronic/assets/admin/layout/css/layout.css" rel="stylesheet" type="text/css"/>
+    <link href="metronic/assets/admin/layout/css/themes/darkblue.css" rel="stylesheet" type="text/css" id="style_color"/>
+    <link href="metronic/assets/admin/layout/css/custom.css" rel="stylesheet" type="text/css"/>
+    
+    
+    
+    <link href="metronic/assets/global/plugins/select2/select2.css" rel="stylesheet"
+          type="text/css" />
+
+    <!-- END THEME STYLES -->
+    <link rel="shortcut icon" href="Resources/favicon.ico"/>
+    <!-- END HEAD -->
+
+
+    <!-- Main Stylesheet File -->
+    <link href="Reveal/css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+    Theme Name: Reveal
+    Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
+    Author: BootstrapMade.com
+    License: https://bootstrapmade.com/license/
+  ======================================================= -->
+</head>
+
+<body id="body">
+    <form id="form1" runat="server">
+        <!--==========================
+    Top Bar
+  ============================-->
+        <section id="topbar" class="d-none d-lg-block">
+            <div class="container clearfix">
+                <div class="contact-info float-left">
+                    <i class="fa fa-envelope-o"></i><a href="mailto:subsecoopymutuales@cba.gob.ar">subsecoopymutuales@cba.gob.ar</a>
+                    <i class="fa fa-phone"></i>351-4688500 int. 8011
+                </div>
+                <div class="social-links float-right">
+                    <a href="https://twitter.com/cooperativascba" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/cooperativasymutuales/"  target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/explore/locations/1660376084274119/subsecretaria-cooperativas-y-mutuales/?hl=es-la"  target="_blank"  class="instagram"><i class="fa fa-instagram"></i></a>
+                </div>
+            </div>
+        </section>
+
+        <!--==========================
+    Header
+  ============================-->
+        <asp:ContentPlaceHolder ID="ContenedorEncabezado" runat="server"> 
+        </asp:ContentPlaceHolder>      
+        
+        <main id="main">
+            <asp:ContentPlaceHolder  ID="ContenedorPrincipal" runat="server">
+            </asp:ContentPlaceHolder>
+        </main>
+
+
+        <!--==========================
+    Footer
+  ============================-->
+        <div class="page-footer">
+            <div class="page-footer-inner" style="text-align: center">
+                <img src="Resources/cooperativas.png" style="width:41%; margin-top: -53px;padding: 37px;"/>
+                 
+            </div>
+            <%--<div class="page-footer-tools">
+            <span class="go-top"><i class="fa fa-angle-up"></i></span>
+        </div>--%>
+        </div>
+        <!-- #footer -->
+
+        <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+        <!-- JavaScript Libraries -->
+        <script src="Reveal/lib/jquery/jquery.min.js"></script>
+        <script src="Reveal/lib/jquery/jquery-migrate.min.js"></script>
+        <script src="Reveal/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="Reveal/lib/easing/easing.min.js"></script>
+        <script src="Reveal/lib/superfish/hoverIntent.js"></script>
+        <script src="Reveal/lib/superfish/superfish.min.js"></script>
+        <script src="Reveal/lib/wow/wow.min.js"></script>
+        <script src="Reveal/lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="Reveal/lib/magnific-popup/magnific-popup.min.js"></script>
+        <script src="Reveal/lib/sticky/sticky.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8HeI8o-c1NppZA-92oYlXakhDPYR7XMY"></script>
+        <!-- Contact Form JavaScript File -->
+        <script src="Reveal/contactform/contactform.js"></script>
+
+        <!-- Template Main Javascript File -->
+        <script src="Reveal/js/main.js"></script>
+    </form>
+</body>
+</html>
+

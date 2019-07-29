@@ -1,0 +1,50 @@
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\Activity1.g.xaml
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\DataAccessCyM_Activity1_BeforeInitializeComponentHelper.txt
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\_DataAccessCyM.g.cs
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\Activity1.g.cs
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\DataAccessCyM_Activity1_BeforeInitializeComponentHelper.cs
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\Coop_Mutuales\CyM\DataAccessCyM\bin\Debug\DataAccessCyM.dll
+D:\Coop_Mutuales\CyM\DataAccessCyM\bin\Debug\DataAccessCyM.pdb
+D:\Coop_Mutuales\CyM\DataAccessCyM\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.dll
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.pdb
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csprojResolveAssemblyReference.cache
+D:\Coop_Mutuales\CyM\DataAccessCyM\bin\Debug\AppComunicacion.dll
+D:\Coop_Mutuales\CyM\DataAccessCyM\bin\Debug\Newtonsoft.Json.dll
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csproj.FileListAbsolute.txt
+D:\COOP Y MUT\CyM\DataAccessCyM\bin\Debug\DataAccessCyM.dll
+D:\COOP Y MUT\CyM\DataAccessCyM\bin\Debug\DataAccessCyM.pdb
+D:\COOP Y MUT\CyM\DataAccessCyM\bin\Debug\AppComunicacion.dll
+D:\COOP Y MUT\CyM\DataAccessCyM\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\COOP Y MUT\CyM\DataAccessCyM\bin\Debug\Newtonsoft.Json.dll
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csprojResolveAssemblyReference.cache
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\Activity1.g.xaml
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\DataAccessCyM_Activity1_BeforeInitializeComponentHelper.txt
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\_DataAccessCyM.g.cs
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\Activity1.g.cs
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\DataAccessCyM_Activity1_BeforeInitializeComponentHelper.cs
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.dll
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.pdb
+D:\COOP Y MUT\CyM\DataAccessCyM\obj\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\bin\Debug\DataAccessCyM.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\bin\Debug\DataAccessCyM.pdb
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\bin\Debug\AppComunicacion.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\bin\Debug\Newtonsoft.Json.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csprojResolveAssemblyReference.cache
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\Activity1.g.xaml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\DataAccessCyM_Activity1_BeforeInitializeComponentHelper.txt
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\_DataAccessCyM.g.cs
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\Activity1.g.cs
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\DataAccessCyM_Activity1_BeforeInitializeComponentHelper.cs
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.csproj.FileListAbsolute.txt
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\DataAccessCyM.pdb
+D:\COOPERATIVAS_Y_MUTUALES\CyM\DataAccessCyM\obj\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml

@@ -1,0 +1,3 @@
+obj\Release\_BLCyM.g.cs
+obj\Release\Activity1.g.cs
+obj\Release\BLCyM_Activity1_BeforeInitializeComponentHelper.cs

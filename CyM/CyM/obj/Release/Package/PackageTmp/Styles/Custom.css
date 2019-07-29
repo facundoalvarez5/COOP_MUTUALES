@@ -1,0 +1,89 @@
+﻿
+
+
+#logo {
+    display: inline-block;
+    margin: 0 30px 0 5px;
+    width: 90px;
+    vertical-align: middle;
+    height: 42px;
+    line-height: 20px;
+    font-size: 16px;
+    font-weight: 900;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.icon-grilla {
+    
+    
+}
+
+.mostrarModal
+{
+    display: block !important;
+}
+
+.btnActivarCooperativa {
+    color: white;
+    background-color: #8e44ad;
+    border-color: white;
+    border-left-style: hidden;
+    border-top-style: hidden;
+    border-right-style: hidden;
+}
+
+.subtituloForm {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 6px;
+    font-weight: bold;
+}
+
+
+.botonEliminar {
+    border: none; 
+    min-width: 16px; 
+    min-height: 16px;
+    background-image: url('../Resources/btn_20_borrar.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+    width: 20px;
+    height: 20px;
+        margin: 10px;
+}
+
+.botonImprimir {
+    border: none; 
+    min-width: 16px; 
+    min-height: 16px;
+    background-image: url('../Resources/print_2.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+    width: 20px;
+    height: 20px;
+        margin: 10px;
+}
+
+.botonVer {
+    border: none; 
+    min-width: 16px; 
+    min-height: 16px;
+    background-image: url('../Resources/btn_20_buscar.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+     width: 20px;
+    height: 20px;
+        margin: 10px;
+}
+
+.botonEditar {
+    border: none; 
+    min-width: 16px; 
+    min-height: 16px;
+    background-image: url('../Resources/btn_20_editar.png');
+    background-repeat: no-repeat;
+    background-color: transparent;
+     width: 20px;
+    height: 20px;
+        margin: 10px;
+}

@@ -1,0 +1,2 @@
+obj\Release\Activity1.g.xaml
+obj\Release\BLCyM_Activity1_BeforeInitializeComponentHelper.txt

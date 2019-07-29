@@ -1,0 +1,234 @@
+D:\Coop_Mutuales\CyM\CyM\bin\CyM.dll.config
+D:\Coop_Mutuales\CyM\CyM\bin\CyM.dll
+D:\Coop_Mutuales\CyM\CyM\bin\CyM.pdb
+D:\Coop_Mutuales\CyM\CyM\bin\Antlr3.Runtime.dll
+D:\Coop_Mutuales\CyM\CyM\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Coop_Mutuales\CyM\CyM\bin\AspNet.ScriptManager.jQuery.dll
+D:\Coop_Mutuales\CyM\CyM\bin\EntityFramework.dll
+D:\Coop_Mutuales\CyM\CyM\bin\EntityFramework.SqlServer.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.Google.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Web.Infrastructure.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Newtonsoft.Json.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Owin.dll
+D:\Coop_Mutuales\CyM\CyM\bin\System.Web.Optimization.dll
+D:\Coop_Mutuales\CyM\CyM\bin\System.Web.Providers.dll
+D:\Coop_Mutuales\CyM\CyM\bin\WebGrease.dll
+D:\Coop_Mutuales\CyM\CyM\bin\System.Web.Optimization.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Antlr3.Runtime.pdb
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Coop_Mutuales\CyM\CyM\bin\EntityFramework.xml
+D:\Coop_Mutuales\CyM\CyM\bin\EntityFramework.SqlServer.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.Google.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Coop_Mutuales\CyM\CyM\bin\es\System.Web.Optimization.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\EntityFramework.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\System.Web.Providers.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.Owin.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Coop_Mutuales\CyM\CyM\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Coop_Mutuales\CyM\CyM\obj\Debug\CyM.csprojResolveAssemblyReference.cache
+D:\Coop_Mutuales\CyM\CyM\obj\Debug\CyM.dll
+D:\Coop_Mutuales\CyM\CyM\obj\Debug\CyM.pdb
+D:\Coop_Mutuales\CyM\CyM\bin\BLCyM.dll
+D:\Coop_Mutuales\CyM\CyM\bin\DataAccessCyM.dll
+D:\Coop_Mutuales\CyM\CyM\bin\BLCyM.pdb
+D:\Coop_Mutuales\CyM\CyM\bin\DataAccessCyM.pdb
+D:\Coop_Mutuales\CyM\CyM\bin\Oracle.ManagedDataAccess.dll
+D:\Coop_Mutuales\CyM\CyM\bin\AppComunicacion.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Coop_Mutuales\CyM\CyM\obj\Debug\RdlCompile.cache
+D:\Coop_Mutuales\CyM\CyM\obj\Debug\RdlCompile.compiled
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.ReportViewer.Common.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Coop_Mutuales\CyM\CyM\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Coop_Mutuales\CyM\CyM\bin\AjaxControlToolkit.dll
+D:\COOP Y MUT\CyM\CyM\bin\CyM.dll.config
+D:\COOP Y MUT\CyM\CyM\bin\CyM.dll
+D:\COOP Y MUT\CyM\CyM\bin\CyM.pdb
+D:\COOP Y MUT\CyM\CyM\bin\AjaxControlToolkit.dll
+D:\COOP Y MUT\CyM\CyM\bin\Antlr3.Runtime.dll
+D:\COOP Y MUT\CyM\CyM\bin\AppComunicacion.dll
+D:\COOP Y MUT\CyM\CyM\bin\AspNet.ScriptManager.bootstrap.dll
+D:\COOP Y MUT\CyM\CyM\bin\AspNet.ScriptManager.jQuery.dll
+D:\COOP Y MUT\CyM\CyM\bin\BLCyM.dll
+D:\COOP Y MUT\CyM\CyM\bin\DataAccessCyM.dll
+D:\COOP Y MUT\CyM\CyM\bin\EntityFramework.dll
+D:\COOP Y MUT\CyM\CyM\bin\EntityFramework.SqlServer.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.AspNet.Identity.Core.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.Cookies.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.Facebook.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.Google.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.OAuth.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.Twitter.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.ReportViewer.Common.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.ReportViewer.WebForms.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.ScriptManager.WebForms.dll
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Web.Infrastructure.dll
+D:\COOP Y MUT\CyM\CyM\bin\Newtonsoft.Json.dll
+D:\COOP Y MUT\CyM\CyM\bin\Owin.dll
+D:\COOP Y MUT\CyM\CyM\bin\System.Web.Optimization.dll
+D:\COOP Y MUT\CyM\CyM\bin\System.Web.Providers.dll
+D:\COOP Y MUT\CyM\CyM\bin\WebGrease.dll
+D:\COOP Y MUT\CyM\CyM\bin\Oracle.ManagedDataAccess.dll
+D:\COOP Y MUT\CyM\CyM\bin\BLCyM.pdb
+D:\COOP Y MUT\CyM\CyM\bin\DataAccessCyM.pdb
+D:\COOP Y MUT\CyM\CyM\bin\System.Web.Optimization.xml
+D:\COOP Y MUT\CyM\CyM\bin\Antlr3.Runtime.pdb
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\COOP Y MUT\CyM\CyM\bin\EntityFramework.xml
+D:\COOP Y MUT\CyM\CyM\bin\EntityFramework.SqlServer.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.AspNet.Identity.Core.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.Facebook.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.Cookies.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.Google.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.Twitter.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\COOP Y MUT\CyM\CyM\bin\Microsoft.Owin.Security.OAuth.xml
+D:\COOP Y MUT\CyM\CyM\bin\es\System.Web.Optimization.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\EntityFramework.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\EntityFramework.SqlServer.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\System.Web.Providers.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.Owin.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.Owin.Security.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\COOP Y MUT\CyM\CyM\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\COOP Y MUT\CyM\CyM\obj\Debug\CyM.csprojResolveAssemblyReference.cache
+D:\COOP Y MUT\CyM\CyM\obj\Debug\RdlCompile.cache
+D:\COOP Y MUT\CyM\CyM\obj\Debug\RdlCompile.compiled
+D:\COOP Y MUT\CyM\CyM\obj\Debug\CyM.dll
+D:\COOP Y MUT\CyM\CyM\obj\Debug\CyM.pdb
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\CyM.dll.config
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\CyM.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\CyM.pdb
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\AjaxControlToolkit.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Antlr3.Runtime.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\AppComunicacion.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\AspNet.ScriptManager.bootstrap.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\AspNet.ScriptManager.jQuery.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\BLCyM.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\DataAccessCyM.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\EntityFramework.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\EntityFramework.SqlServer.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.AspNet.Identity.Core.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.Cookies.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.Facebook.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.Google.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.OAuth.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.Twitter.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.ReportViewer.Common.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.ReportViewer.WebForms.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.ScriptManager.WebForms.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Web.Infrastructure.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Newtonsoft.Json.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Owin.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\System.Web.Optimization.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\System.Web.Providers.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\WebGrease.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Oracle.ManagedDataAccess.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\BLCyM.pdb
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\DataAccessCyM.pdb
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\System.Web.Optimization.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Antlr3.Runtime.pdb
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\EntityFramework.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\EntityFramework.SqlServer.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.AspNet.Identity.Core.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.Facebook.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.Cookies.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.Google.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.Twitter.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\Microsoft.Owin.Security.OAuth.xml
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\System.Web.Optimization.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\EntityFramework.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\EntityFramework.SqlServer.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\System.Web.Providers.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.Owin.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.Owin.Security.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\obj\Debug\CyM.csprojResolveAssemblyReference.cache
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\obj\Debug\RdlCompile.cache
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\obj\Debug\RdlCompile.compiled
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\obj\Debug\CyM.dll
+D:\COOPERATIVAS_Y_MUTUALES\CyM\CyM\obj\Debug\CyM.pdb

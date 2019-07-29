@@ -1,0 +1,3 @@
+obj\Release\_DataAccessCyM.g.cs
+obj\Release\Activity1.g.cs
+obj\Release\DataAccessCyM_Activity1_BeforeInitializeComponentHelper.cs

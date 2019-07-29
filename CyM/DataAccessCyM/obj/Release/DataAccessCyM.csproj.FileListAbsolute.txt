@@ -1,0 +1,16 @@
+D:\Coop_Mutuales\CyM\DataAccessCyM\bin\Release\DataAccessCyM.dll
+D:\Coop_Mutuales\CyM\DataAccessCyM\bin\Release\DataAccessCyM.pdb
+D:\Coop_Mutuales\CyM\DataAccessCyM\bin\Release\AppComunicacion.dll
+D:\Coop_Mutuales\CyM\DataAccessCyM\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Coop_Mutuales\CyM\DataAccessCyM\bin\Release\Newtonsoft.Json.dll
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\DataAccessCyM.csprojResolveAssemblyReference.cache
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\Activity1.g.xaml
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\DataAccessCyM_Activity1_BeforeInitializeComponentHelper.txt
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\_DataAccessCyM.g.cs
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\Activity1.g.cs
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\DataAccessCyM_Activity1_BeforeInitializeComponentHelper.cs
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\DataAccessCyM.csproj.XamlGeneratedCodeFileListAbsolute.txt
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\DataAccessCyM.csproj.XamlGeneratedXamlFileListAbsolute.txt
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\DataAccessCyM.dll
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\DataAccessCyM.pdb
+D:\Coop_Mutuales\CyM\DataAccessCyM\obj\Release\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
